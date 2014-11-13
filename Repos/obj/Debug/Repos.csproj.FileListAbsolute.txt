@@ -1,0 +1,7 @@
+C:\Users\apbiti\Documents\Visual Studio 2013\Projects\ComplexTypeOdataPvz\Repos\bin\Debug\Repos.dll
+C:\Users\apbiti\Documents\Visual Studio 2013\Projects\ComplexTypeOdataPvz\Repos\bin\Debug\Repos.pdb
+C:\Users\apbiti\Documents\Visual Studio 2013\Projects\ComplexTypeOdataPvz\Repos\bin\Debug\Entities.dll
+C:\Users\apbiti\Documents\Visual Studio 2013\Projects\ComplexTypeOdataPvz\Repos\bin\Debug\Entities.pdb
+C:\Users\apbiti\Documents\Visual Studio 2013\Projects\ComplexTypeOdataPvz\Repos\obj\Debug\Repos.csprojResolveAssemblyReference.cache
+C:\Users\apbiti\Documents\Visual Studio 2013\Projects\ComplexTypeOdataPvz\Repos\obj\Debug\Repos.dll
+C:\Users\apbiti\Documents\Visual Studio 2013\Projects\ComplexTypeOdataPvz\Repos\obj\Debug\Repos.pdb
